@@ -1,6 +1,6 @@
 
 N= [120,230,450,774,1400]
-I= [140,0,413,890,1300]
+I= [140,0,413,0,1300]
 C= [110,200,0,670,1180]
 j=int(input("Enter the units:"))
 v=int(input("Enter number of hours:"))
